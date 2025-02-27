@@ -1,4 +1,4 @@
-# PsychCare Platform
+# PsyClinic
 
 A comprehensive platform for psychologists to manage clients, appointments, payments, and communications.
 
@@ -43,13 +43,13 @@ A comprehensive platform for psychologists to manage clients, appointments, paym
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/psychcare-platform.git
-   cd psychcare-platform
+   git clone https://github.com/cloudomega/psyclinic.git
+   cd psyclinic
    ```
 
 2. Create environment files
    ```
-   cp .env.example .env
+   cp env.example .env
    ```
 
 3. Start the development environment
